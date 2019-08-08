@@ -91,3 +91,10 @@ git pull
 
 make clean && make && make install
 ```
+
+## Blockstack
+```bash
+npm install -g yo generator-blockstack
+
+yo blockstack
+```
